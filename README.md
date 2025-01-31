@@ -24,7 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/Kr7Ebtp' title='Prework' width='' alt='Video Walkthrough' />
+
+if this link is too blurry or does not work please refer to this link
+<img src='https://youtu.be/eCBQtdmbI6E' title='WEB102 Prework Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
