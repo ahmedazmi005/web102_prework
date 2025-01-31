@@ -3,7 +3,7 @@ Submitted by: Ahmed Azmi
 
 SeaMonster is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 10 hours spent in total
+Time spent: 12 hours spent in total
 
 ## Required Features
 
@@ -24,13 +24,12 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/Kr7Ebtp' title='Prework' width='' alt='Video Walkthrough' />
+<img src='(https://imgur.com/Xv0oF86) title='Prework' width='' alt='Video Walkthrough' />
 
-if this link is too blurry or does not work please refer to this link
-<img src='https://youtu.be/eCBQtdmbI6E' title='WEB102 Prework Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Adobe Express 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
